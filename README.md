@@ -1,9 +1,22 @@
-### 영남대학교 재학중인 김세은입니다. 
+## 👋 About Me
+
+<div align="center">
+
+### 김세은 (Seeun Kim)  
+**영남대학교 재학 중 | Front-End Developer 지망생**
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
-- Email : your.email@example.com
+
+📧 Email : your.email@example.com
+
+<br/>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- 
+
+<br/><br/>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seeeeeeeeun&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/seeeeeeeeun"
@@ -11,4 +24,5 @@
     height="120"
   />
 </a>
-  
+
+</div>
