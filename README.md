@@ -6,9 +6,9 @@
 
 ---
 
-**Contact** 
+**📧 Contact** 
 <br/>
-📧 Email : rlatpdms0513@naver.com
+Email : rlatpdms0513@naver.com
 <br/><br/><br/>
 **💻 Languages**
 <br/>
