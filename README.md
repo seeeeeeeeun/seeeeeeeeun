@@ -8,9 +8,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
 
-**Contact**
-📧 Email : rlatpdms0513@naver.com
+**Contact** 
 <br/>
+📧 Email : rlatpdms0513@naver.com
+<br/> <br/>
 **💻 Languages**
 <br/>
 
