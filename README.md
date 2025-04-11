@@ -3,13 +3,14 @@
 <div align="center">
 
 ### 김세은 (Seeun Kim)  
-**영남대학교 재학 중 | Front-End Developer 지망생**
+**영남대학교 컴퓨터 공학과 재학 중**
+프론트엔드 개발자를 준비하고 있습니다.
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
 
-📧 Email : your.email@example.com
+📧 Email : rlatpdms0513@naver.com
 
 <br/>
 
