@@ -6,4 +6,6 @@
 />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeeeeeeeun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeeeeeeeun&layout=compact&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seeeeeeeeun&show_icons=true&theme=dracula)
