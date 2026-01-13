@@ -6,6 +6,13 @@
 />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeeeeeeeun&layout=compact&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seeeeeeeeun&show_icons=true&theme=dracula)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeeeeeeeun&layout=compact&theme=dracula&t=1" alt="Top Langs" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=seeeeeeeeun&show_icons=true&theme=dracula&t=1" alt="GitHub Stats" />
+
+</div>
