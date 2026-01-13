@@ -6,4 +6,4 @@
 />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=본인깃허브아이디&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeeeeeeeun&layout=compact)
